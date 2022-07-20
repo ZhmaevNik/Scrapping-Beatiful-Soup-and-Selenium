@@ -1,0 +1,1060 @@
+2022-07-19 14:39:00,842 - [DEBUG] - __main__ - (main.py).<module>(142) - Начало исполнения кода программы
+2022-07-19 14:39:00,842 - [DEBUG] - __main__ - (main.py).scrapping_link_ticket(54) - Начало функции
+2022-07-19 14:39:00,842 - [DEBUG] - __main__ - (main.py).func_soup(36) - Начало функции
+2022-07-19 14:39:02,110 - [DEBUG] - __main__ - (main.py).func_soup(43) - Завершение функции
+2022-07-19 14:39:02,112 - [DEBUG] - __main__ - (main.py).scrapping_link_ticket(66) - Завершение функции. Создан список ссылок на билеты
+2022-07-19 14:39:02,112 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:39:13,621 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:39:13,648 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:39:13,684 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:39:13,684 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:39:13,778 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:39:13,801 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:39:13,801 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:39:13,913 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:39:13,935 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:39:13,935 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:39:14,076 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:39:14,100 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:39:14,100 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:39:14,272 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:39:14,295 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:39:14,296 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:39:14,495 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:39:14,520 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:39:14,520 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:39:14,755 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:39:14,782 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:39:14,782 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:39:15,053 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:39:15,076 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:39:15,076 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:39:15,348 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:39:15,371 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:39:15,372 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:39:15,684 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:39:15,732 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:39:15,732 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:39:16,456 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:39:18,590 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:39:18,591 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:39:18,591 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:39:25,859 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:39:25,885 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:39:25,920 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:39:25,920 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:39:25,997 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:39:26,020 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:39:26,021 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:39:26,123 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:39:26,147 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:39:26,147 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:39:26,274 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:39:26,294 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:39:26,294 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:39:26,456 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:39:26,479 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:39:26,479 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:39:26,676 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:39:26,697 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:39:26,697 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:39:26,951 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:39:26,973 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:39:26,973 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:39:27,248 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:39:27,272 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:39:27,272 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:39:27,553 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:39:27,575 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:39:27,575 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:39:27,881 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:39:27,929 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:39:27,929 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:39:28,629 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:39:30,759 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:39:30,760 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:39:30,760 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:39:38,064 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:39:38,091 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:39:38,127 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:39:38,127 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:39:38,200 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:39:38,223 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:39:38,224 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:39:38,331 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:39:38,353 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:39:38,353 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:39:38,484 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:39:38,507 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:39:38,507 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:39:38,662 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:39:38,684 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:39:38,684 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:39:38,884 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:39:38,908 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:39:38,908 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:39:39,131 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:39:39,152 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:39:39,152 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:39:39,393 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:39:39,416 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:39:39,416 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:39:39,700 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:39:39,723 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:39:39,723 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:39:40,026 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:39:40,074 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:39:40,074 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:39:40,801 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:39:42,951 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:39:42,952 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:39:42,952 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:40:34,200 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:40:34,227 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:40:34,264 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:40:34,264 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:40:34,325 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:40:34,352 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:40:34,352 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:40:34,448 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:40:34,474 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:40:34,474 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:40:34,599 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:40:34,622 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:40:34,622 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:40:34,765 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:40:34,787 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:40:34,787 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:40:34,967 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:40:34,989 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:40:34,989 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:40:35,199 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:40:35,220 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:40:35,220 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:40:35,456 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:40:35,478 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:40:35,478 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:40:35,763 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:40:35,786 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:40:35,786 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:40:36,074 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:40:36,122 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:40:36,122 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:40:36,822 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:40:38,942 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:40:38,943 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:40:38,943 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:41:08,812 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:41:08,842 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:41:08,879 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:41:08,879 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:41:08,954 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:41:08,979 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:41:08,979 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:41:09,088 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:41:09,111 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:41:09,111 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:41:09,244 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:41:09,267 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:41:09,267 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:41:09,417 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:41:09,444 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:41:09,444 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:41:09,635 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:41:09,658 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:41:09,659 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:41:09,873 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:41:09,897 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:41:09,897 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:41:10,136 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:41:10,165 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:41:10,165 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:41:10,433 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:41:10,456 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:41:10,456 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:41:10,731 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:41:10,780 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:41:10,781 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:41:11,504 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:41:13,632 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:41:13,633 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:41:13,634 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:41:20,347 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:41:20,374 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:41:20,410 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:41:20,410 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:41:20,487 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:41:20,510 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:41:20,510 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:41:20,620 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:41:20,645 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:41:20,645 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:41:20,764 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:41:20,790 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:41:20,790 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:41:20,943 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:41:20,967 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:41:20,967 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:41:21,168 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:41:21,194 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:41:21,194 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:41:21,417 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:41:21,440 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:41:21,440 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:41:21,689 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:41:21,714 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:41:21,714 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:41:21,995 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:41:22,019 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:41:22,019 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:41:22,310 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:41:22,359 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:41:22,359 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:41:23,109 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:41:25,242 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:41:25,243 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:41:25,243 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:41:31,306 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:41:31,333 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:41:31,369 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:41:31,370 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:41:31,429 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:41:31,452 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:41:31,453 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:41:31,552 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:41:31,574 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:41:31,574 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:41:31,695 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:41:31,717 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:41:31,717 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:41:31,866 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:41:31,889 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:41:31,890 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:41:32,085 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:41:32,106 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:41:32,106 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:41:32,320 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:41:32,342 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:41:32,342 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:41:32,603 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:41:32,624 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:41:32,624 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:41:32,915 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:41:32,936 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:41:32,936 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:41:33,256 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:41:33,302 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:41:33,302 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:41:33,969 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:41:36,116 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:41:36,117 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:41:36,117 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:41:41,929 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:41:41,956 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:41:41,993 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:41:41,993 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:41:42,101 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:41:42,126 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:41:42,126 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:41:42,259 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:41:42,284 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:41:42,284 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:41:42,426 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:41:42,449 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:41:42,449 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:41:42,620 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:41:42,644 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:41:42,644 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:41:42,860 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:41:42,881 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:41:42,882 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:41:43,119 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:41:43,142 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:41:43,142 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:41:43,416 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:41:43,440 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:41:43,440 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:41:43,716 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:41:43,740 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:41:43,741 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:41:44,036 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:41:44,084 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:41:44,084 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:41:44,836 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:41:46,983 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:41:46,984 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:41:46,984 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:41:53,203 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:41:53,230 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:41:53,266 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:41:53,266 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:41:53,327 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:41:53,348 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:41:53,348 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:41:53,447 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:41:53,471 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:41:53,472 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:41:53,594 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:41:53,617 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:41:53,618 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:41:53,767 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:41:53,789 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:41:53,789 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:41:53,983 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:41:54,004 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:41:54,005 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:41:54,229 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:41:54,251 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:41:54,252 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:41:54,491 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:41:54,515 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:41:54,515 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:41:54,791 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:41:54,813 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:41:54,813 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:41:55,091 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:41:55,141 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:41:55,141 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:41:56,363 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:41:58,513 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:41:58,514 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:41:58,514 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:42:48,257 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:42:48,284 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:42:48,320 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:42:48,320 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:42:48,409 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:42:48,432 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:42:48,432 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:42:48,545 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:42:48,567 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:42:48,567 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:42:48,712 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:42:48,736 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:42:48,736 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:42:48,908 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:42:48,930 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:42:48,930 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:42:49,134 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:42:49,156 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:42:49,156 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:42:49,385 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:42:49,408 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:42:49,408 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:42:49,671 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:42:49,694 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:42:49,694 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:42:49,963 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:42:49,985 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:42:49,985 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:42:50,276 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:42:50,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:42:50,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:42:51,528 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:42:53,660 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:42:53,661 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:42:53,661 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:43:56,998 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:43:57,024 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:43:57,066 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:43:57,066 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:43:57,125 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:43:57,146 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:43:57,146 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:43:57,255 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:43:57,280 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:43:57,280 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:43:57,410 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:43:57,431 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:43:57,431 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:43:57,587 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:43:57,609 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:43:57,609 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:43:57,798 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:43:57,820 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:43:57,820 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:43:58,032 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:43:58,054 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:43:58,054 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:43:58,283 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:43:58,304 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:43:58,304 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:43:58,569 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:43:58,592 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:43:58,592 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:43:58,876 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:43:58,927 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:43:58,927 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:43:59,589 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:44:01,710 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:44:01,711 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:44:01,711 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:44:07,691 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:44:07,718 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:44:07,754 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:44:07,754 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:44:07,842 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:44:07,867 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:44:07,867 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:44:07,983 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:44:08,006 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:44:08,006 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:44:08,135 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:44:08,157 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:44:08,157 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:44:08,307 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:44:08,335 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:44:08,335 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:44:08,520 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:44:08,541 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:44:08,541 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:44:08,756 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:44:08,782 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:44:08,782 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:44:09,021 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:44:09,042 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:44:09,042 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:44:09,304 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:44:09,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:44:09,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:44:09,599 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:44:09,645 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:44:09,645 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:44:10,329 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:44:12,456 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:44:12,457 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:44:12,457 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:44:19,057 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:44:19,083 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:44:19,118 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:44:19,118 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:44:19,193 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:44:19,217 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:44:19,217 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:44:19,686 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:44:19,707 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:44:19,708 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:44:19,778 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:44:19,798 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:44:19,798 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:44:19,897 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:44:19,919 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:44:19,919 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:44:20,050 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:44:20,073 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:44:20,073 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:44:20,230 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:44:20,253 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:44:20,253 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:44:20,443 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:44:20,467 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:44:20,467 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:44:20,677 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:44:20,702 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:44:20,702 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:44:20,945 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:44:20,994 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:44:20,994 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:44:22,223 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:44:24,340 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:44:24,341 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:44:24,341 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:44:31,884 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:44:31,913 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:44:31,954 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:44:31,954 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:44:32,039 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:44:32,063 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:44:32,064 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:44:32,174 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:44:32,200 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:44:32,200 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:44:32,343 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:44:32,367 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:44:32,368 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:44:32,544 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:44:32,570 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:44:32,570 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:44:32,772 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:44:32,799 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:44:32,799 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:44:33,033 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:44:33,056 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:44:33,056 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:44:33,315 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:44:33,340 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:44:33,340 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:44:33,614 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:44:33,637 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:44:33,637 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:44:33,952 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:44:34,001 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:44:34,001 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:44:35,229 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:44:37,376 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:44:37,377 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:44:37,377 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-19 14:44:59,427 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-19 14:44:59,454 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-19 14:44:59,491 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-19 14:44:59,491 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-19 14:44:59,565 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-19 14:44:59,589 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-19 14:44:59,589 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-19 14:44:59,681 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-19 14:44:59,701 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-19 14:44:59,701 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-19 14:44:59,827 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-19 14:44:59,849 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-19 14:44:59,849 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-19 14:45:00,001 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-19 14:45:00,031 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-19 14:45:00,031 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-19 14:45:00,211 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-19 14:45:00,233 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-19 14:45:00,233 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-19 14:45:00,441 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-19 14:45:00,464 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-19 14:45:00,464 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-19 14:45:00,688 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-19 14:45:00,713 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-19 14:45:00,713 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-19 14:45:00,998 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-19 14:45:01,021 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-19 14:45:01,021 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-19 14:45:01,318 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-19 14:45:01,366 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-19 14:45:01,366 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-19 14:45:05,160 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-19 14:45:07,274 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-19 14:45:07,275 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-19 14:45:07,275 - [DEBUG] - __main__ - (main.py).<module>(176) - Создали датафрейм
+2022-07-19 14:45:07,486 - [DEBUG] - __main__ - (main.py).<module>(180) - Сохранили данные в Excel
+2022-07-19 14:45:07,486 - [DEBUG] - __main__ - (main.py).<module>(181) - Завершение программы
+2022-07-20 12:15:52,082 - [DEBUG] - __main__ - (main.py).<module>(142) - Начало исполнения кода программы
+2022-07-20 12:15:52,082 - [DEBUG] - __main__ - (main.py).scrapping_link_ticket(54) - Начало функции
+2022-07-20 12:15:52,082 - [DEBUG] - __main__ - (main.py).func_soup(36) - Начало функции
+2022-07-20 12:15:53,257 - [DEBUG] - __main__ - (main.py).func_soup(43) - Завершение функции
+2022-07-20 12:15:53,261 - [DEBUG] - __main__ - (main.py).scrapping_link_ticket(66) - Завершение функции. Создан список ссылок на билеты
+2022-07-20 12:15:53,261 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:16:08,164 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:16:08,192 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:16:08,228 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:16:08,228 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:16:08,314 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:16:08,339 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:16:08,339 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:16:08,453 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:16:08,474 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:16:08,474 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:16:08,616 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:16:08,639 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:16:08,639 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:16:08,809 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:16:08,832 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:16:08,832 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:16:09,040 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:16:09,063 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:16:09,064 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:16:09,347 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:16:09,372 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:16:09,372 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:16:09,674 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:16:09,699 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:16:09,699 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:16:09,987 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:16:10,009 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:16:10,009 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:16:10,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:16:10,377 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:16:10,377 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:16:13,159 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:16:15,327 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:16:15,328 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:16:15,328 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:16:26,169 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:16:26,199 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:16:26,235 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:16:26,236 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:16:26,310 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:16:26,334 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:16:26,334 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:16:26,444 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:16:26,471 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:16:26,471 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:16:26,629 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:16:26,652 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:16:26,652 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:16:26,821 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:16:26,846 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:16:26,847 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:16:27,055 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:16:27,077 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:16:27,077 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:16:27,349 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:16:27,375 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:16:27,375 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:16:27,686 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:16:27,710 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:16:27,710 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:16:28,002 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:16:28,026 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:16:28,026 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:16:28,328 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:16:28,378 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:16:28,378 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:16:30,104 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:16:32,265 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:16:32,267 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:16:32,267 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:16:41,721 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:16:41,737 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:16:41,784 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:16:41,784 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:16:41,867 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:16:41,891 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:16:41,891 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:16:42,082 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:16:42,096 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:16:42,096 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:16:42,261 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:16:42,291 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:16:42,291 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:16:42,482 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:16:42,498 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:16:42,498 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:16:42,723 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:16:42,739 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:16:42,739 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:16:42,980 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:16:43,004 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:16:43,004 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:16:43,270 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:16:43,286 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:16:43,286 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:16:43,567 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:16:43,583 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:16:43,583 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:16:43,904 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:16:43,952 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:16:43,953 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:16:44,667 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:16:46,828 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:16:46,828 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:16:46,828 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:16:53,987 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:16:54,018 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:16:54,059 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:16:54,059 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:16:54,126 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:16:54,150 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:16:54,150 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:16:54,249 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:16:54,273 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:16:54,273 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:16:54,416 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:16:54,444 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:16:54,444 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:16:54,590 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:16:54,614 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:16:54,614 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:16:54,969 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:16:55,000 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:16:55,000 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:16:55,315 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:16:55,342 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:16:55,342 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:16:55,777 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:16:55,805 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:16:55,805 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:16:56,131 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:16:56,156 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:16:56,156 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:16:56,486 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:16:56,537 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:16:56,537 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:16:57,223 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:16:59,395 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:16:59,397 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:16:59,397 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:17:07,502 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:17:07,532 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:17:07,571 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:17:07,571 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:17:07,646 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:17:07,672 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:17:07,672 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:17:07,779 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:17:07,805 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:17:07,805 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:17:07,942 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:17:07,965 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:17:07,965 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:17:08,140 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:17:08,165 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:17:08,165 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:17:08,346 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:17:08,371 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:17:08,371 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:17:08,616 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:17:08,642 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:17:08,642 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:17:08,952 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:17:08,975 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:17:08,975 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:17:09,273 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:17:09,298 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:17:09,298 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:17:09,584 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:17:09,631 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:17:09,631 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:17:11,887 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:17:14,080 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:17:14,081 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:17:14,081 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:17:23,017 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:17:23,048 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:17:23,083 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:17:23,083 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:17:23,175 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:17:23,200 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:17:23,200 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:17:23,296 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:17:23,311 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:17:23,311 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:17:23,424 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:17:23,470 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:17:23,470 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:17:23,623 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:17:23,647 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:17:23,647 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:17:23,847 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:17:23,870 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:17:23,870 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:17:24,093 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:17:24,109 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:17:24,109 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:17:24,359 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:17:24,375 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:17:24,375 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:17:24,676 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:17:24,699 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:17:24,699 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:17:25,014 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:17:25,071 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:17:25,071 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:17:25,785 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:17:27,940 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:17:27,940 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:17:27,940 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:17:37,688 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:17:37,715 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:17:37,752 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:17:37,752 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:17:37,816 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:17:37,841 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:17:37,842 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:17:37,942 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:17:37,966 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:17:37,966 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:17:38,133 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:17:38,156 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:17:38,156 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:17:38,333 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:17:38,360 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:17:38,360 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:17:38,572 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:17:38,598 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:17:38,598 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:17:38,844 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:17:38,868 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:17:38,868 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:17:39,157 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:17:39,177 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:17:39,177 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:17:39,472 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:17:39,495 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:17:39,495 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:17:39,846 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:17:39,899 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:17:39,899 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:17:41,609 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:17:43,791 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:17:43,792 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:17:43,792 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:17:50,130 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:17:50,163 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:17:50,212 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:17:50,212 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:17:50,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:17:50,353 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:17:50,353 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:17:50,545 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:17:50,579 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:17:50,580 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:17:50,731 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:17:50,775 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:17:50,775 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:17:50,950 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:17:50,979 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:17:50,979 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:17:51,195 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:17:51,219 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:17:51,219 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:17:51,465 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:17:51,487 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:17:51,488 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:17:51,769 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:17:51,793 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:17:51,793 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:17:52,071 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:17:52,098 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:17:52,098 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:17:52,426 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:17:52,477 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:17:52,477 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:17:54,234 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:17:56,386 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:17:56,387 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:17:56,387 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:18:05,454 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:18:05,488 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:18:05,530 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:18:05,530 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:18:05,595 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:18:05,618 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:18:05,618 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:18:05,718 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:18:05,743 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:18:05,744 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:18:05,868 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:18:05,899 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:18:05,900 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:18:06,055 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:18:06,081 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:18:06,081 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:18:06,276 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:18:06,300 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:18:06,301 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:18:06,551 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:18:06,574 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:18:06,574 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:18:06,907 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:18:06,934 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:18:06,934 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:18:07,245 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:18:07,269 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:18:07,270 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:18:07,584 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:18:07,648 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:18:07,649 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:18:09,347 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:18:11,522 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:18:11,523 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:18:11,523 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:18:19,145 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:18:19,176 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:18:19,222 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:18:19,222 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:18:19,312 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:18:19,335 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:18:19,335 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:18:19,448 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:18:19,473 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:18:19,473 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:18:19,615 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:18:19,637 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:18:19,637 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:18:19,809 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:18:19,831 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:18:19,831 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:18:20,035 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:18:20,060 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:18:20,060 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:18:20,302 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:18:20,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:18:20,326 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:18:20,597 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:18:20,623 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:18:20,623 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:18:20,905 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:18:20,929 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:18:20,929 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:18:21,264 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:18:21,315 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:18:21,315 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:18:23,086 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:18:25,250 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:18:25,251 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:18:25,251 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:18:50,435 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:18:50,480 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:18:50,518 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:18:50,518 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:18:50,581 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:18:50,604 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:18:50,604 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:18:50,727 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:18:50,750 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:18:50,750 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:18:50,896 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:18:50,917 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:18:50,917 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:18:51,086 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:18:51,113 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:18:51,113 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:18:51,303 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:18:51,327 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:18:51,327 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:18:51,540 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:18:51,556 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:18:51,556 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:18:51,850 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:18:51,875 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:18:51,875 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:18:52,162 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:18:52,186 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:18:52,186 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:18:52,472 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:18:52,512 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:18:52,512 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:18:54,310 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:18:56,463 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:18:56,463 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:18:56,463 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:19:02,917 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:19:02,943 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:19:02,980 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:19:02,980 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:19:03,071 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:19:03,146 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:19:03,146 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:19:03,255 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:19:03,289 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:19:03,289 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:19:03,444 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:19:03,493 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:19:03,494 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:19:03,653 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:19:03,677 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:19:03,677 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:19:03,867 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:19:03,894 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:19:03,894 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:19:04,119 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:19:04,144 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:19:04,144 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:19:04,404 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:19:04,428 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:19:04,428 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:19:04,693 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:19:04,716 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:19:04,716 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:19:04,994 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:19:05,044 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:19:05,044 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:19:06,780 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:19:08,931 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:19:08,932 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:19:08,932 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:19:15,241 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:19:15,272 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:19:15,320 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:19:15,320 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:19:15,407 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:19:15,432 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:19:15,432 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:19:15,916 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:19:15,941 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:19:15,941 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:19:16,021 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:19:16,043 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:19:16,043 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:19:16,150 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:19:16,175 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:19:16,175 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:19:16,311 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:19:16,336 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:19:16,336 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:19:16,503 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:19:16,527 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:19:16,528 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:19:16,735 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:19:16,761 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:19:16,761 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:19:16,975 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:19:17,001 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:19:17,001 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:19:17,262 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:19:17,311 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:19:17,311 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:19:19,001 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:19:21,176 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:19:21,177 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:19:21,177 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:20:37,070 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:20:37,099 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:20:37,137 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:20:37,137 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:20:37,227 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:20:37,252 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:20:37,252 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:20:37,365 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:20:37,391 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:20:37,391 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:20:37,538 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:20:37,564 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:20:37,564 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:20:37,751 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:20:37,776 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:20:37,777 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:20:37,989 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:20:38,012 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:20:38,012 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:20:38,245 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:20:38,269 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:20:38,269 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:20:38,544 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:20:38,571 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:20:38,571 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:20:38,847 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:20:38,867 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:20:38,867 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:20:39,189 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:20:39,239 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:20:39,239 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
+2022-07-20 12:20:46,770 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(135) - Завершение функции
+2022-07-20 12:20:48,937 - [DEBUG] - __main__ - (main.py).<module>(163) - Собрали данные из кода
+2022-07-20 12:20:48,938 - [DEBUG] - __main__ - (main.py).<module>(172) - Наполнили список
+2022-07-20 12:20:48,938 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(77) - Начало функции
+2022-07-20 12:24:11,183 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 1
+2022-07-20 12:24:11,212 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 1
+2022-07-20 12:24:11,251 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 1
+2022-07-20 12:24:11,251 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 2
+2022-07-20 12:24:11,327 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 2
+2022-07-20 12:24:11,356 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 2
+2022-07-20 12:24:11,357 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 3
+2022-07-20 12:24:11,453 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 3
+2022-07-20 12:24:11,476 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 3
+2022-07-20 12:24:11,476 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 4
+2022-07-20 12:24:11,607 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 4
+2022-07-20 12:24:11,630 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 4
+2022-07-20 12:24:11,631 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 5
+2022-07-20 12:24:11,794 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 5
+2022-07-20 12:24:11,818 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 5
+2022-07-20 12:24:11,818 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 6
+2022-07-20 12:24:12,035 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 6
+2022-07-20 12:24:12,062 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 6
+2022-07-20 12:24:12,062 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 7
+2022-07-20 12:24:12,298 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 7
+2022-07-20 12:24:12,324 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 7
+2022-07-20 12:24:12,324 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 8
+2022-07-20 12:24:12,596 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 8
+2022-07-20 12:24:12,621 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 8
+2022-07-20 12:24:12,621 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 9
+2022-07-20 12:24:12,910 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 9
+2022-07-20 12:24:12,937 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(113) - Клик 2 цикла № 9
+2022-07-20 12:24:12,937 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(94) - Начало цикла № 10
+2022-07-20 12:24:13,257 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(100) - Клик 1 цикла № 10
+2022-07-20 12:24:13,316 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(117) - Завершающий клик, цикл № 10
+2022-07-20 12:24:13,316 - [DEBUG] - __main__ - (main.py).scrapping_q_and_a(121) - Ждем загрузки страницы
