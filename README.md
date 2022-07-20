@@ -4,7 +4,7 @@
 ## Краткое описание работы программы
 Для работы кода нужно заполнить две переменные:
 вставляем ссылку на страницу с выбором билетов (раздел), пример:
-url_page_tickets = 'https://tests24.su/b-2-4-burenie-neftyanyh-i-gazovyh-skvazhin/'
+<url_page_tickets = 'https://tests24.su/b-2-4-burenie-neftyanyh-i-gazovyh-skvazhin/'>
 вставляем начало ссылки на каждый билет(паттерн) без номера билета, пример:
 url_ticket_pattern = 'https://tests24.su/b-2-4-bilet'
 
