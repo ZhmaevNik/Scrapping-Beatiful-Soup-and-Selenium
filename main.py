@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import logging
+import os
 
 
 # настраиваем логирование
@@ -25,6 +26,12 @@ logger.addHandler(file_handler)
 # глобальные переменные
 count: int = 1
 title: str = ''
+
+# создание папок
+if not os.path.exists('./screenshots'):
+    os.mkdir('./screenshots')
+if not os.path.exists('./html'):
+    os.mkdir('./html')
 
 
 def func_soup(url: str):
